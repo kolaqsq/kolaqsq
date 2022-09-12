@@ -1,1 +1,1 @@
-![vkusno]()
+![vkusno](glue.gif)
